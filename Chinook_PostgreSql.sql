@@ -15814,5 +15814,15 @@ INSERT INTO "PlaylistTrack" ("PlaylistId", "TrackId") VALUES (17, 2095);
 INSERT INTO "PlaylistTrack" ("PlaylistId", "TrackId") VALUES (17, 2096);
 INSERT INTO "PlaylistTrack" ("PlaylistId", "TrackId") VALUES (17, 3290);
 INSERT INTO "PlaylistTrack" ("PlaylistId", "TrackId") VALUES (18, 597);
-
+INSERT INTO "PlaylistTrack" ("Playlistid", "TrackId") VALUES (18,89012);
+INSERT INTO "PlaylistTrack" ("Playlistid", "TrackId") VALUES (18,8903);
+INSERT INTO "PlaylistTrack" ("Playlistid", "TrackId") VALUES (18,8904);
+INSERT INTO "PlaylistTrack" ("Playlistid", "TrackId") VALUES (18,8905);
+INSERT INTO "PlaylistTrack" ("Playlistid", "TrackId") VALUES (18,8906);
+INSERT INTO "PlaylistTrack" ("Playlistid", "TrackId") VALUES (18,8907);
+INSERT INTO "PlaylistTrack" ("Playlistid", "TrackId") VALUES (18,8908);
+INSERT INTO "PlaylistTrack" ("Playlistid", "TrackId") VALUES (18,8909);
+INSERT INTO "PlaylistTrack" ("Playlistid", "TrackId") VALUES (18,8910);
+INSERT INTO "PlaylistTrack" ("Playlistid", "TrackId") VALUES (18,8911);
+INSERT INTO "PlaylistTrack" ("Playlistid", "TrackId") VALUES (18,823);
 
